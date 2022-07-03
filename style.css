@@ -1,0 +1,10 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 54px;
+}
+.name-highlight{
+    color: deeppink;
+}
